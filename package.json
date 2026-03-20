@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/best-free-ai",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a best-free-ai",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/best-free-ai.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://isproto.com/en/best-free-ai-video-generators-2026/"
+    },
+    "homepage": "https://isproto.com/en/best-free-ai-video-generators-2026/"
+}
